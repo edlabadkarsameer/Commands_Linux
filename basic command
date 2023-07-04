@@ -1,0 +1,4 @@
+cd /bin/   ---> change directory with path
+cd ..      ---> change the directory to previous directory 
+cd /        ---> change the directory to root
+
