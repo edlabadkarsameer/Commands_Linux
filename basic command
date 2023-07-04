@@ -1,4 +1,11 @@
 cd /bin/   ---> change directory with path
 cd ..      ---> change the directory to previous directory 
 cd /        ---> change the directory to root
+pwd      ------> Present working directory path
+mkdir ----->making directory 
+mkdir -p -------> making directory with path 
+mv  ---------> Rename
+cp ------------> Copy
+rm ------------> remove
+rmdir --------->delete Directory 
 
