@@ -2,10 +2,23 @@ cd /bin/   ---> change directory with path
 cd ..      ---> change the directory to previous directory 
 cd /        ---> change the directory to root
 pwd      ------> Present working directory path
-mkdir ----->making directory 
+mkdir -----> Making directory 
 mkdir -p -------> making directory with path 
 mv  ---------> Rename
 cp ------------> Copy
 rm ------------> remove
-rmdir --------->delete Directory 
+rmdir ---------> Delete Directory 
+grep ----------> Search for patterns in files.
+chown ---------> changing ownership
+tar ---------->  Create or extract tar archives.
+kill ---------- kill the running process
+cat -------> Display content 
+sudo ---------> Execute a command with administrative privileges.
+ipconfig --------->
+ip
+ps
+ssh 
+ping
+top
+chmod -------> change the permission 
 
