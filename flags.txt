@@ -1,0 +1,3 @@
+****************Flags********************
+-f -----> is a regular file
+-h -----> gives output in human readable format 
