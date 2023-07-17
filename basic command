@@ -21,4 +21,5 @@ ssh
 ping
 top
 chmod -------> change the permission 
+du <filename> --------> give the file size
 
